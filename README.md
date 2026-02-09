@@ -1,6 +1,6 @@
 ## Hi there, I'm kentaro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="170px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc2amZ5and2ODN4MmhhY2V1OHN5ZWpmdG5vOXJwYmYzM3BjbmE3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc2amZ5and2ODN4MmhhY2V1OHN5ZWpmdG5vOXJwYmYzM3BjbmE3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" />
 
 **📖 The Story**
 
